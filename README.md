@@ -2,7 +2,10 @@
 
 run `npm install`
 
-copy the `.env.template` file - save it as `.env` store your NASA API key here so that it won't be uploaded to githubb
+copy the `.env.template` file - save it as `.env` store your NASA API key here so that it won't be uploaded to github
+
+You can find the Nasa Open API at https://api.nasa.gov/
+
 
 ## Available Scripts
 
